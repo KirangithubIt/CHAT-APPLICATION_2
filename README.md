@@ -17,3 +17,4 @@ The Real-Time Chat Application uses Socket.IO and Node.js to enable instant mess
 
 
 # OUTPUT OF TASK
+![Image](https://github.com/user-attachments/assets/aa965a2f-228d-4cde-85e2-9930113cd2bc)
